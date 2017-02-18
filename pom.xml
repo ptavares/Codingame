@@ -29,7 +29,6 @@
         <connection>scm:git:https://github.com/ptavares/Codingame</connection>
         <developerConnection>scm:git:https://github.com/ptavares/Codingame</developerConnection>
         <url>https://github.com/ptavares/Codingame</url>
-        <tag>HEAD</tag>
     </scm>
 
     <!-- Common properties -->
