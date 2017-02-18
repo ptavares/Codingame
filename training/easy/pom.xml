@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <!-- Parent info -->
+    <parent>
+        <artifactId>codingame-training</artifactId>
+        <groupId>fr.ptavares.codingame</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
+    <!-- Artifact info -->
+    <groupId>fr.ptavares.codingame.codingame-training</groupId>
+    <artifactId>codingame-training-easy</artifactId>
+    <packaging>pom</packaging>
+
+    <!-- Modules -->
+    <modules>
+        <module>ascii-art</module>
+        <module>chuck-norris</module>
+        <module>defibrillators</module>
+        <module>horse-racing-duals</module>
+        <module>mars-landers-episode-1</module>
+        <module>mime-type</module>
+        <module>onboarding</module>
+        <module>power-of-thor-episode-1</module>
+        <module>temperatures</module>
+        <module>the-descent</module>
+    </modules>
+
+</project>
