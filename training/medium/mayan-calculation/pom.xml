@@ -6,20 +6,14 @@
 
     <!-- Parent info -->
     <parent>
-        <artifactId>codingame-training</artifactId>
-        <groupId>fr.ptavares.codingame</groupId>
+        <groupId>fr.ptavares.codingame.codingame-training</groupId>
+        <artifactId>codingame-training-medium</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
     <!-- Artifact info -->
-    <groupId>fr.ptavares.codingame.codingame-training</groupId>
-    <artifactId>codingame-training-medium</artifactId>
-    <packaging>pom</packaging>
+    <groupId>fr.ptavares.codingame.codingame-training.medium</groupId>
+    <artifactId>mayan-calculation</artifactId>
 
-    <!-- Modules -->
-    <modules>
-        <module>winamax-battle</module>
-        <module>mayan-calculation</module>
-    </modules>
-
+    
 </project>
