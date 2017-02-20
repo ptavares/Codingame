@@ -23,6 +23,7 @@
         <module>skynet-revolution-episode-1</module>
         <module>the-gift</module>
         <module>telephone-numbers</module>
+        <module>conway-sequence</module>
     </modules>
 
 </project>
