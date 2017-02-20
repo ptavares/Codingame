@@ -24,6 +24,7 @@
         <module>the-gift</module>
         <module>telephone-numbers</module>
         <module>conway-sequence</module>
+        <module>scrabble</module>
     </modules>
 
 </project>
