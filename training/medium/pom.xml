@@ -26,6 +26,7 @@
         <module>conway-sequence</module>
         <module>scrabble</module>
         <module>the-last-crusade-episode-1</module>
+        <module>stock-exchange-losses</module>
     </modules>
 
 </project>
